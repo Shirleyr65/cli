@@ -3,3 +3,4 @@ set -eu
 
 echo "cli"
 # keep defaults in sync with the manifest
+# clarify the control flow
